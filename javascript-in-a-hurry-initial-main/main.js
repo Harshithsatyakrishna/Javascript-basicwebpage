@@ -1,4 +1,4 @@
-const weatherAPIKey = "ae65282031063418f6ccc1a3583d9826";
+const weatherAPIKey = "your-secret-api-key";
 const weatherAPIURL = `https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key} & units=metric`
 
 const galleryImages =[
